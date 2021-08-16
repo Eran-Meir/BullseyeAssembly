@@ -1,4 +1,4 @@
-# Bullseye Assembly Game 
+# Bullseye Assembly Game (MIPS)
 # Written by Eran Meir
 .data
 	bool: 			.space 3								 # for 3 chars we need 3 bytes
