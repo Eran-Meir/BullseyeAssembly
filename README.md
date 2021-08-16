@@ -1,7 +1,5 @@
-##### BullseyeAssembly #####
-#  Written by Eran Meir    #
-#  Bullseye Assembly Game  #
-############################
+#  Bullseye Assembly Game
+#  Written by Eran Meir    
 
 # Input
 This program gets 3 number chars in a row, '0' - '9' that do not contain repetition
@@ -34,6 +32,7 @@ Nice, good number input!
 
 p
 
+Combination of the cases above
 # Example 3:
 Guess my number (bool array): 123
 
@@ -47,7 +46,7 @@ bpp
 
 If you have guessed everything correctly (bbb) the game will end and you will be asked if you want to start another game
 # Example 4:
-uess my number (bool array): 123
+Guess my number (bool array): 123
 
 Nice, good number input!
 
@@ -62,5 +61,15 @@ Well done! You got 3 b's, bye!
 Would you like to start another game? (y/n): y
 
 Guess my number (bool array): ......
+
+Illegal inputs will result asking for a legal input:
+# Example 5:
+Guess my number (bool array): fde
+
+Illegal input! Enter again.
+
+Guess my number (bool array): 123
+
+Nice, good number input!
 
 
