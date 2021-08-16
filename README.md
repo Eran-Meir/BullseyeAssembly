@@ -1,4 +1,4 @@
-#  Bullseye Assembly Game
+#  Bullseye Assembly Game (MIPS)
 #  Written by Eran Meir    
 
 # Input
