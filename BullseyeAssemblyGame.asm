@@ -1,5 +1,5 @@
-#### 	Bullseye Assembly Game    ####
-####  Written by Eran Meir      ####
+# Bullseye Assembly Game 
+# Written by Eran Meir
 .data
 	bool: 			.space 3								 # for 3 chars we need 3 bytes
 	guess: 			.space 4								 # 3 chars + 1 space char
