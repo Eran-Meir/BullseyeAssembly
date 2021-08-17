@@ -3,8 +3,10 @@
 
 # Input
 This program gets 3 number chars in a row, '0' - '9' that do not contain repetition
-Example for legal inputs: 123, 321, 234, 987, 012 etc.
-Example for illegal inputs: 111, 121, 122, 133, 2qa, asd, 3k1, 999 etc.
+```diff
++ Example for legal inputs: 123, 321, 234, 987, 012 etc.
+- Example for illegal inputs: 111, 121, 122, 133, 2qa, asd, 3k1, 999 etc.
+```
 
 # Output
 If you have guessed the correct number in the correct index - you'll get 'b'
@@ -64,7 +66,7 @@ Guess my number (bool array): ......
 
 Illegal inputs will result asking for a legal input:
 # Example 5:
-Guess my number (bool array): fde
+Guess my number (bool array): asd
 
 Illegal input! Enter again.
 
