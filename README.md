@@ -65,7 +65,17 @@ Would you like to start another game? (y/n): y
 Guess my number (bool array): ......
 
 Illegal inputs will result asking for a legal input:
+
+If you haven't guessed correctly any of the numbers you will get a 'n'
 # Example 5:
+Guess my number (bool array): 123
+Nice, good number input!
+
+Enter your guess (guess array): 987
+Nice, good number input!
+n
+
+# Example 6:
 Guess my number (bool array): asd
 
 Illegal input! Enter again.
