@@ -1,6 +1,8 @@
 #  Bullseye Assembly Game (MIPS)
 #  Written by Eran Meir    
 
+![alt text](https://github.com/Eran-Meir/BullseyeAssembly/blob/main/ThirdGuess.jpg)
+
 ## Input
 ## This program gets 3 number chars in a row, '0' - '9' that do not contain repetition
 ```diff
